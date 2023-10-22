@@ -4,5 +4,3 @@
 
 MAS3091 (Group Project) Simulation and computation of The Ising Model
 
-This repository contains the code created to simulate The Ising Model.
-
