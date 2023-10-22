@@ -1,4 +1,4 @@
-# isingmodel
+# THE ISING MODEL
 
 (WIP: MAS3091 Final Report is due 15/12/2023 and the repository will be complete then)
 
